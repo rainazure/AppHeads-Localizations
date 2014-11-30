@@ -14,7 +14,7 @@
 "ALLOW_IN_LS_DESCRIPTION" = "Anda dapat memilih apakah anda ingin mengijinkan AppHeads di Layar terkunci atau tidak. Pilihan ini dimatikan secara baku untuk mengamankan aplikasi anda.";
 "EXCLUDE_MAIL" = "Mengecualikan Aplikasi Mail";
 "EXCLUDE_MAIL_DESCRIPTION" = "Mail merupakan aplikasi yang berjalan konstan dimana anda akan melihat aplikasi Mail pada AppHeads secara permanen di layar. Pengaturan ini mengecualikan aplikasi Mail.";
-"HIDE_IN_VIDEOS" = "Sembunyikan Selama Memutar Video";
+"HIDE_IN_VIDEOS" = "Sembunyikan Selama Memutar video";
 "HIDE_IN_VIDEOS_DESCRIPTION" = "Ketika aktif, AppHeads akan secara akan tersembunyi sementara ketika menonton Video dan akan muncul kembali ketika Video selesai.";
 "ALLOWED_SNAP_LOCATION" = "Lokasi AppHeads";
 "ALLOWED_SNAP_LOCATION_DESCRIPTION" = "Pilih lokasi menempelnya AppHeads.";
@@ -41,7 +41,7 @@
 "CLOSE_APP" = "Tutup aplikasi";
 "CLOSE_ALL_APPS" = "Tutup semua aplikasi";
 "ACTIVATOR_NOT_INSTALLED" = "Activator tidak terinstal.";
-"TOUCHID_DESCRIPTION" = "Pengaturan ini memerlukan Anda untuk mengotentikasi menggunakan Touch ID sebelum AppHeads memunculkan Live View-nya. Anda dapat memilih beberapa aplikasi tertentu yang memerlukan pengaturan konfirmasi Touch ID sebelum memunculkan Live View";
+"TOUCHID_DESCRIPTION" = "Pengaturan ini memerlukan Anda untuk mengotentikasi menggunakan Touch ID sebelum AppHeads memunculkan Live View-nya. Anda dapat memilih beberapa aplikasi tertentu yang memerlukan pengaturan konfirmasi Touch ID sebelum memunculkan Love View";
 "TOUCHID_LIVE_VIEW" = "Touch ID untuk Live View";
 "CONFIRM_LIVE_VIEW" = "Tegaskan untuk menampilkan Live View.";
 "ABOUT" = "Tentang";
@@ -49,8 +49,8 @@
 "AUTHENTICATE_DESCRIPTION" = "Otentikasi menggunakan Touch ID untuk menampilkan Live View";
 "CANCEL" = "Batalkan";
 "RESPRING" = "Respring";
-"DRAG_TO_CLOSE" = "Seret kesini untuk menutup AppHeads";
-"LOCK_UNLOCK" = "Kunci / Buka Kunci AppHead (Mode Bebas)";
+"DRAG_TO_CLOSE" = "Seret kesini untuk menutup AppHead";
+"LOCK_UNLOCK" = "Kunci / Buka Kunci AppHead (Mode Bebas";
 "DOUBLE_TAP_ACTION" = "Aksi Ketuk Ganda";
 "DOUBLE_TAP_DESCRIPTION" = "Tetapkan sebuah aksi yang akan dieksekusi ketika ketuk ganda pada AppHead. Gunakan slider untuk untuk mengatur kecepatan ketuk.(0 = tiada ketuk ganda)";
 "SCALE_DESCRIPTION" = "Tentukan ukuran AppHeads.";
